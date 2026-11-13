@@ -35,3 +35,6 @@ Participated in an electric vehicle project where I worked on:
 ---
 
 I am continuously learning, building projects, and developing my technical skills.
+## Certifications
+
+- [IBM – Machine Learning: Introduction for Everyone](Certificates/IBM%20certificate.pdf)
