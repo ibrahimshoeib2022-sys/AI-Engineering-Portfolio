@@ -21,10 +21,10 @@ Participated in an electric vehicle project where I worked on:
 - Vehicle programming.
 - Integrating cameras and sensors.
 
-## Certifications & Learning
+## Certifications & Achievements
 
-- IBM – Machine Learning: Introduction for Everyone *(In Progress)*
-- SolidWorks – Training / Certificate
+- [IBM – Machine Learning: Introduction for Everyone](Certificates/IBM%20certificate.pdf)
+- SolidWorks – Training Certificate
 - IELTS Academic – Overall Band 6.5
 
 ## Currently Learning
@@ -35,6 +35,3 @@ Participated in an electric vehicle project where I worked on:
 ---
 
 I am continuously learning, building projects, and developing my technical skills.
-## Certifications
-
-- [IBM – Machine Learning: Introduction for Everyone](Certificates/IBM%20certificate.pdf)
